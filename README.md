@@ -23,4 +23,4 @@ The front has 6 LEDs paired with resistors including a switch, which are powered
 
 ## About
 
-Made with love by **Stackx64** for solder workshop.
+Made with love by **he-manxcodes22** for solder workshop.
